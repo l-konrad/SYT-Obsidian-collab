@@ -16,5 +16,7 @@ Container werden durch Rohre mittels Luftdruck oder Vakuum befördert
 Transport von Materialien durch Rohre unter Nutzung von Flüssigkeitsdruck
 ![[Pasted image 20250916152404.png|299]]
 ## Magnetbahnen
+![[japan-train.gif]]
 
-## Waggon*-Systeme
+## Gondel-Waggon-Systeme
+![[Pasted image 20250916153201.png|150]] 
